@@ -1,9 +1,9 @@
 <div align="center">
 
-# MIGUEL BRAGA
-### Engenharia de Software • AI Product Engineering • Automação
+# MIGUEL BRAGA MELO DE SOUSA
+### Software Engineer • AI Product Architect • Automation Specialist
 
-**Building intelligent systems that ship to production.**
+**Building intelligent, production-ready systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-braga-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragamiguel018@gmail.com)
@@ -15,15 +15,15 @@
 
 ## ⚡ THE SHORT VERSION
 
-I'm a **Software Engineering student and developer** with a strong focus on **AI product engineering and intelligent automation**.
+I am a **Software Engineer** specializing in full-stack development, AI product engineering, and intelligent automation.
 
-Today my strongest focus is designing systems where LLMs, AI agents, APIs and full-stack software work together as a reliable, production-ready product. 
+I design and deploy production-ready systems where LLMs, AI agents, APIs, and robust software operate as a reliable, unified product. 
 
 > **I don't just add AI to software. I architect the system around it.**
 
 ---
 
-## 🧠 AI ENGINEERING — WHERE I WORK
+## 🧠 CORE CAPABILITIES
 
 <div align="center">
 
@@ -31,15 +31,15 @@ Today my strongest focus is designing systems where LLMs, AI agents, APIs and fu
 
 </div>
 
-### 🔬 AI / GenAI
-`LLMs` `Generative AI` `AI Agents` `Tool Calling` `RAG` `Vector Search` `Embeddings` `Automation` `Prompt Engineering` `Evaluation`
+### 🔬 AI & GenAI
+`LLMs` `Generative AI` `AI Agents` `Tool Calling` `RAG` `Vector Search` `Embeddings` `Automation` `Prompt Engineering`
 
 ### 🏗️ Product & Architecture
-`Full-Stack Development` `SaaS` `REST APIs` `WebSockets` `Automation Workflows` `Cloud Architecture` `Production Systems`
+`Full-Stack Development` `SaaS` `REST APIs` `WebSockets` `Automation Workflows` `Cloud Architecture` `Scalable Systems`
 
 ---
 
-## 🧩 HOW I TURN AN IDEA INTO A PRODUCTION SYSTEM
+## 🧩 THE PRODUCTION ENGINE
 
 ```text
 ┌──────────────┐     ┌─────────────────┐     ┌────────────────┐
@@ -55,20 +55,16 @@ Today my strongest focus is designing systems where LLMs, AI agents, APIs and fu
         └─────────── FRONTEND / MOBILE ◀─────────────┘
 
              + AUTOMATION + OBSERVABILITY + SECURITY
-I take ownership across the lifecycle: product strategy → architecture → implementation → AI integration → infrastructure → deployment → scale.
-🔥 SELECTED ENGINEERING EXPERIENCE
-- AI & Agentic Systems — LLM applications, agent workflows, tool execution, and production-ready AI automation.
-- Full-Stack Architecture — Designing scalable platforms, RESTful APIs, and efficient business logic.
-- Automation Engineering — Optimizing manual processes into reliable, automated digital workflows.
-- Cloud & Infrastructure — Deployment, monitoring, and performance optimization on modern platforms like Cloudflare.
-- Technical Architecture — System design, scalability, and integration of emerging technologies.
-📌 SELECTED PROJECTS
+I take ownership across the lifecycle: product strategy, system architecture, core implementation, AI integration, infrastructure, deployment, and operational scale.
+🔥 ENGINEERING EXPERIENCE
+- Full-Stack Architecture — Architected scalable platforms, high-performance RESTful APIs, and efficient business logic.
+- AI & Agentic Systems — Engineered LLM applications, agent workflows, tool execution environments, and production-grade AI automation.
+- Automation Engineering — Transformed manual processes into reliable, high-speed automated digital workflows.
+- Cloud & Infrastructure — Delivered performant, scalable, and secure deployments on modern edge platforms.
+📌 FEATURED WORK
 Readr (https://github.com/Miguel-bg/readr) 📚
-Social reading app with page-flip reader, import capabilities and D1 backend.
+A high-performance social reading ecosystem.
 - Tech: Next.js, React, Cloudflare Workers/D1, JWT/PBKDF2.
-🧠 WHAT I BRING
-TECHNICAL DEPTH × PRODUCT THINKING × BUSINESS LOGIC × EXECUTION
-The interesting problems are rarely just "write some code." They are about deciding what should exist, designing the right architecture, integrating AI where it creates leverage, and shipping something that survives production.
 <div align="center">
 📊 GITHUB STATS
 GitHub Stats
